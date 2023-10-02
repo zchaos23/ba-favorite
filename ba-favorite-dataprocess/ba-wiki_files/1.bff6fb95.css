@@ -1,0 +1,237 @@
+.wiki-top-container[data-v-066f02a0] {
+  position: relative;
+  height: 2.4rem;
+  border-radius: 0.21333rem;
+  overflow: hidden;
+  background: url(../img/wiki-header-bg.85e10669.png) no-repeat center;
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.wiki-top-container .mask-bg[data-v-066f02a0] {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 1.46667rem;
+  padding: 0 0.53333rem 0.32rem 0.53333rem;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.35) 80%, rgba(0, 0, 0, 0.45) 100%);
+}
+.wiki-top-container .toggle-btn[data-v-066f02a0] {
+  align-self: flex-end;
+  height: 0.74667rem;
+  padding: 0.08rem;
+  border-radius: 0.13333rem;
+  color: #fff;
+  font-size: 0.37333rem;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  background: rgba(1, 1, 1, 0.25);
+}
+.wiki-top-container .toggle-btn .item[data-v-066f02a0] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 2.02667rem;
+  height: 0.58667rem;
+  font-weight: 400;
+  cursor: pointer;
+  color: #fff;
+}
+.wiki-top-container .toggle-btn .item.current[data-v-066f02a0] {
+  font-weight: 600;
+  background-color: #00afe8;
+  border-radius: 0.10667rem;
+}
+.wiki-top-container.hero-wiki-top-container[data-v-066f02a0] {
+  background: url(../img/hero_top.7f3a1fdd.png) no-repeat center;
+  background-size: cover;
+}
+.wiki-top-container .top-index-content[data-v-066f02a0],
+.wiki-top-container .top-row-content[data-v-066f02a0] {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+.wiki-top-container .top-index-content[data-v-066f02a0] {
+  height: 100%;
+  padding: 0.32rem;
+}
+.wiki-top-container .top-row-content[data-v-066f02a0] {
+  background: rgba(0, 0, 0, 0.47);
+  height: 1.33333rem;
+  align-items: center;
+}
+.wiki-top-container .top-row-content .l-wrapper[data-v-066f02a0] {
+  align-items: center;
+}
+.wiki-top-container .l-wrapper[data-v-066f02a0] {
+  height: 100%;
+  display: flex;
+}
+.wiki-top-container .l-wrapper .game-info[data-v-066f02a0] {
+  display: flex;
+  align-items: center;
+  margin-right: 0.42667rem;
+}
+.wiki-top-container .l-wrapper .game-info img[data-v-066f02a0] {
+  width: 0.96rem;
+  height: 0.96rem;
+  border: 1px solid #fff;
+  border-radius: 0.16rem;
+}
+.wiki-top-container .l-wrapper .game-info span[data-v-066f02a0] {
+  font-size: 0.64rem;
+  margin-left: 0.42667rem;
+  color: #fff;
+}
+.wiki-top-container .l-wrapper .slogan[data-v-066f02a0] {
+  height: 1.54667rem;
+  margin-right: 0.26667rem;
+}
+.wiki-top-container .r-wrapper[data-v-066f02a0] {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.wiki-top-container .r-wrapper .entry-total[data-v-066f02a0] {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-bottom: 0.26667rem;
+  color: #fff;
+  font-size: 0.58667rem;
+  text-shadow: 0px 0px 0.13333rem rgba(96, 96, 96, 0.64);
+}
+.wiki-top-container .r-wrapper .entry-total span[data-v-066f02a0] {
+  font-size: 0.37333rem;
+  margin-left: 0.26667rem;
+}
+.wiki-top-container .r-wrapper .admin-list[data-v-066f02a0] {
+  display: flex;
+  align-items: center;
+  color: #fff;
+}
+.wiki-top-container .r-wrapper .admin-list img[data-v-066f02a0] {
+  width: 0.74667rem;
+  height: 0.74667rem;
+  border: 1px solid #fff;
+  border-radius: 50%;
+  margin-right: 0.42667rem;
+  display: block;
+}
+.wiki-top-container .r-wrapper .admin-list .plus-btn[data-v-066f02a0] {
+  width: 0.74667rem;
+  height: 0.74667rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #00afe8;
+  border-radius: 50%;
+  background: #00afe8;
+  position: relative;
+  cursor: pointer;
+}
+.wiki-top-container .r-wrapper .admin-list .plus-btn[data-v-066f02a0]:after {
+  content: "";
+  width: 0.32rem;
+  height: 2px;
+  border-radius: 2px;
+  background: #fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.wiki-top-container .r-wrapper .admin-list .plus-btn[data-v-066f02a0]:before {
+  content: "";
+  height: 0.32rem;
+  width: 2px;
+  border-radius: 2px;
+  background: #fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.ellipsis[data-v-066f02a0] {
+  width: auto;
+  overflow: hidden;
+  white-space: nowrap;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+}
+/*清除浮动*/
+.clearfix[data-v-066f02a0] {
+  *zoom: 1;
+}
+.clearfix[data-v-066f02a0]:after {
+  display: table;
+  line-height: 0;
+  content: "";
+  clear: both;
+}
+.fl[data-v-066f02a0] {
+  float: left;
+}
+.fr[data-v-066f02a0] {
+  float: right;
+}
+
+.fixed-container[data-v-7da774c1] {
+  position: fixed;
+  display: flex;
+  bottom: 3.46667rem;
+  left: 50%;
+  margin-left: 18.4rem;
+  flex-direction: column;
+}
+.fixed-container .fixed-item[data-v-7da774c1] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 0.26667rem;
+  width: 1.28rem;
+  height: 1.28rem;
+  color: #999;
+  font-size: 0.64rem;
+  background-color: #fff;
+  border-radius: 0.21333rem;
+  transition: all ease 0.3s;
+  cursor: pointer;
+}
+.fixed-container .fixed-item[data-v-7da774c1]:last-child {
+  margin-bottom: 0;
+}
+.ellipsis[data-v-7da774c1] {
+  width: auto;
+  overflow: hidden;
+  white-space: nowrap;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+}
+/*清除浮动*/
+.clearfix[data-v-7da774c1] {
+  *zoom: 1;
+}
+.clearfix[data-v-7da774c1]:after {
+  display: table;
+  line-height: 0;
+  content: "";
+  clear: both;
+}
+.fl[data-v-7da774c1] {
+  float: left;
+}
+.fr[data-v-7da774c1] {
+  float: right;
+}
+
+
+/*# sourceMappingURL=1.bff6fb95.css.map*/

@@ -1,0 +1,115 @@
+- id: 0
+  variant: 泳装
+  character:
+  - 白子
+  - 芹香
+  - 星野
+  - 绫音
+  - 伊织
+  - 日奈
+  - 泉
+  - 日富美
+  - 鹤城
+  - 千世
+  - 野宫
+  - 真白
+  - 泉奈
+  - 静子
+  - 梓
+  - 花子
+  - 小春
+  - 若藻
+  - 三森
+  - 忧
+  - 日向
+  - 咲
+  - 宫子
+  - 美游
+  - 萌绘
+- id: 1
+  variant: 骑行
+  character:
+  - 白子
+- id: 2
+  variant: 幼女
+  character:
+  - 瞬
+- id: 3
+  variant: 私服
+  character:
+  - 纱绫
+- id: 4
+  variant: 兔女郎
+  character:
+  - 明日奈
+  - 朱音
+  - 花凛
+  - 尼禄
+  - 时
+- id: 5
+  variant: 温泉
+  character:
+  - 千夏
+  - 切里诺
+  - 和香
+  - 时雨
+  - 梅露
+- id: 6
+  variant: 正月
+  character:
+  - 芹香
+  - 佳代子
+  - 阿露
+  - 淳子
+  - 泉
+  - 明里
+  - 晴奈
+  - 枫香
+  - 睦月
+  - 遥香
+- id: 7
+  variant: 应援团
+  character:
+  - 柯托莉
+  - 歌原
+  - 响
+- id: 8
+  variant: 体操服
+  character:
+  - 晴奈
+  - 莲见
+  - 优香
+  - 玛丽
+- id: 9
+  variant: 圣诞
+  character:
+  - 芹娜
+  - 花绘
+- id: 10
+  variant: 女仆
+  character:
+  - 爱丽丝
+  - 桃井
+  - 绿
+  - 柚子
+- id: 11
+  variant: 华服
+  character:
+  - 若藻
+- id: 12
+  variant: 睡衣
+  character:
+  - 日奈
+- id: 13
+  variant: 礼服
+  character:
+  - 樱子
+- id: 14
+  variant: 制服
+  character:
+  - 明日奈
+  - 花凛
+- id: 15
+  variant: 色彩
+  character:
+  - 白子

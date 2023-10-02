@@ -1,0 +1,778 @@
+- id: 0
+  name: 白子
+  url: https://ba.gamekee.com/46677.html
+  special:
+  - name: 白子（骑行）
+    url: https://ba.gamekee.com/85351.html
+  - name: 白子（泳装）
+    url: https://ba.gamekee.com/161196.html
+  - name: 白子（色彩）
+    url: https://ba.gamekee.com/582843.html
+- id: 1
+  name: 芹香
+  url: https://ba.gamekee.com/46678.html
+  special:
+  - name: 芹香（正月）
+    url: https://ba.gamekee.com/150380.html
+  - name: 芹香（泳装）
+    url: https://ba.gamekee.com/161197.html
+- id: 2
+  name: 星野
+  url: https://ba.gamekee.com/46680.html
+  special:
+  - name: 星野（泳装）
+    url: https://ba.gamekee.com/162560.html
+- id: 3
+  name: 绫音
+  url: https://ba.gamekee.com/46923.html
+  special:
+  - name: 绫音（泳装）
+    url: https://ba.gamekee.com/160191.html
+- id: 4
+  name: 佳代子
+  url: https://ba.gamekee.com/56393.html
+  special:
+  - name: 佳代子（正月）
+    url: https://ba.gamekee.com/586470.html
+- id: 5
+  name: 阿露
+  url: https://ba.gamekee.com/57763.html
+  special:
+  - name: 阿露（正月）
+    url: https://ba.gamekee.com/150220.html
+- id: 6
+  name: 千夏
+  url: https://ba.gamekee.com/58280.html
+  special:
+  - name: 千夏（温泉）
+    url: https://ba.gamekee.com/150145.html
+- id: 7
+  name: 伊织
+  url: https://ba.gamekee.com/59300.html
+  special:
+  - name: 伊织（泳装）
+    url: https://ba.gamekee.com/83867.html
+- id: 8
+  name: 日奈
+  url: https://ba.gamekee.com/59934.html
+  special:
+  - name: 日奈（泳装）
+    url: https://ba.gamekee.com/83729.html
+  - name: 日奈（睡衣）
+    url: https://ba.gamekee.com/161199.html
+- id: 9
+  name: 淳子
+  url: https://ba.gamekee.com/60879.html
+  special:
+  - name: 淳子（正月）
+    url: https://ba.gamekee.com/579691.html
+- id: 10
+  name: 泉
+  url: https://ba.gamekee.com/61498.html
+  special:
+  - name: 泉（泳装）
+    url: https://ba.gamekee.com/83936.html
+  - name: 泉（正月）
+    url: https://ba.gamekee.com/580091.html
+- id: 11
+  name: 明里
+  url: https://ba.gamekee.com/62126.html
+  special:
+  - name: 明里（正月）
+    url: https://ba.gamekee.com/580092.html
+- id: 12
+  name: 晴奈
+  url: https://ba.gamekee.com/62592.html
+  special:
+  - name: 晴奈（正月）
+    url: https://ba.gamekee.com/579682.html
+  - name: 晴奈（体操服）
+    url: https://ba.gamekee.com/578165.html
+- id: 13
+  name: 枫香
+  url: https://ba.gamekee.com/64384.html
+  special:
+  - name: 枫香（正月）
+    url: https://ba.gamekee.com/579686.html
+- id: 14
+  name: 日富美
+  url: https://ba.gamekee.com/66256.html
+  special:
+  - name: 日富美（泳装）
+    url: https://ba.gamekee.com/83596.html
+- id: 15
+  name: 好美
+  url: https://ba.gamekee.com/66272.html
+  special: []
+- id: 16
+  name: 爱莉
+  url: https://ba.gamekee.com/66274.html
+  special: []
+- id: 17
+  name: 芹娜
+  url: https://ba.gamekee.com/66275.html
+  special:
+  - name: 芹娜（圣诞）
+    url: https://ba.gamekee.com/578734.html
+- id: 18
+  name: 莲见
+  url: https://ba.gamekee.com/66394.html
+  special:
+  - name: 莲见（体操服）
+    url: https://ba.gamekee.com/170322.html
+- id: 19
+  name: 鹤城
+  url: https://ba.gamekee.com/66645.html
+  special:
+  - name: 鹤城（泳装）
+    url: https://ba.gamekee.com/81813.html
+- id: 20
+  name: 明日奈
+  url: https://ba.gamekee.com/66646.html
+  special:
+  - name: 明日奈（兔女郎）
+    url: https://ba.gamekee.com/89742.html
+  - name: 明日奈（制服）
+    url: https://ba.gamekee.com/578170.html
+- id: 21
+  name: 朱音
+  url: https://ba.gamekee.com/66752.html
+  special:
+  - name: 朱音（兔女郎）
+    url: https://ba.gamekee.com/168947.html
+- id: 22
+  name: 花凛
+  url: https://ba.gamekee.com/67011.html
+  special:
+  - name: 花凛（兔女郎）
+    url: https://ba.gamekee.com/89275.html
+  - name: 花凛（制服）
+    url: https://ba.gamekee.com/578169.html
+- id: 23
+  name: 尼禄
+  url: https://ba.gamekee.com/67012.html
+  special:
+  - name: 尼禄（兔女郎）
+    url: https://ba.gamekee.com/89274.html
+- id: 24
+  name: 晴
+  url: https://ba.gamekee.com/67140.html
+  special: []
+- id: 25
+  name: 真纪
+  url: https://ba.gamekee.com/67654.html
+  special: []
+- id: 26
+  name: 柯托莉
+  url: https://ba.gamekee.com/67655.html
+  special:
+  - name: 柯托莉（应援团）
+    url: https://ba.gamekee.com/168823.html
+- id: 27
+  name: 歌原
+  url: https://ba.gamekee.com/67656.html
+  special:
+  - name: 歌原（应援团）
+    url: https://ba.gamekee.com/168189.html
+- id: 28
+  name: 响
+  url: https://ba.gamekee.com/67657.html
+  special:
+  - name: 响（应援团）
+    url: https://ba.gamekee.com/168196.html
+- id: 29
+  name: 优香
+  url: https://ba.gamekee.com/67658.html
+  special:
+  - name: 优香（体操服）
+    url: https://ba.gamekee.com/170295.html
+- id: 30
+  name: 菫
+  url: https://ba.gamekee.com/67664.html
+  special: []
+- id: 31
+  name: 菲娜
+  url: https://ba.gamekee.com/68176.html
+  special: []
+- id: 32
+  name: 椿
+  url: https://ba.gamekee.com/68177.html
+  special: []
+- id: 33
+  name: 千世
+  url: https://ba.gamekee.com/68284.html
+  special:
+  - name: 千世（泳装）
+    url: https://ba.gamekee.com/162817.html
+- id: 34
+  name: 纱绫
+  url: https://ba.gamekee.com/68521.html
+  special:
+  - name: 纱绫（私服）
+    url: https://ba.gamekee.com/87912.html
+- id: 35
+  name: 瞬
+  url: https://ba.gamekee.com/68522.html
+  special:
+  - name: 瞬（幼女）
+    url: https://ba.gamekee.com/86656.html
+- id: 36
+  name: 野宫
+  url: https://ba.gamekee.com/68803.html
+  special:
+  - name: 野宫（泳装）
+    url: https://ba.gamekee.com/159935.html
+- id: 37
+  name: 艾米
+  url: https://ba.gamekee.com/68820.html
+  special: []
+- id: 38
+  name: 花绘
+  url: https://ba.gamekee.com/68915.html
+  special:
+  - name: 花绘（圣诞）
+    url: https://ba.gamekee.com/578738.html
+- id: 39
+  name: 睦月
+  url: https://ba.gamekee.com/54505.html
+  special:
+  - name: 睦月（正月）
+    url: https://ba.gamekee.com/150223.html
+- id: 40
+  name: 遥香
+  url: https://ba.gamekee.com/53921.html
+  special:
+  - name: 遥香（正月）
+    url: https://ba.gamekee.com/586545.html
+- id: 41
+  name: 朱莉
+  url: https://ba.gamekee.com/63927.html
+  special: []
+- id: 42
+  name: 志美子
+  url: https://ba.gamekee.com/66269.html
+  special: []
+- id: 43
+  name: 铃美
+  url: https://ba.gamekee.com/66259.html
+  special: []
+- id: 44
+  name: 小玉
+  url: https://ba.gamekee.com/67035.html
+  special: []
+- id: 45
+  name: 真白
+  url: https://ba.gamekee.com/69549.html
+  special:
+  - name: 真白（泳装）
+    url: https://ba.gamekee.com/81812.html
+- id: 46
+  name: 泉奈
+  url: https://ba.gamekee.com/70510.html
+  special:
+  - name: 泉奈（泳装）
+    url: https://ba.gamekee.com/162985.html
+- id: 47
+  name: 静子
+  url: https://ba.gamekee.com/70511.html
+  special:
+  - name: 静子（泳装）
+    url: https://ba.gamekee.com/162572.html
+- id: 48
+  name: 爱丽丝
+  url: https://ba.gamekee.com/72904.html
+  special:
+  - name: 爱丽丝（女仆）
+    url: https://ba.gamekee.com/589642.html
+- id: 49
+  name: 桃井
+  url: https://ba.gamekee.com/68801.html
+  special:
+  - name: 桃井（女仆）
+    url: https://ba.gamekee.com/590230.html
+- id: 50
+  name: 绿
+  url: https://ba.gamekee.com/68802.html
+  special:
+  - name: 绿（女仆）
+    url: https://ba.gamekee.com/590231.html
+- id: 51
+  name: 切里诺
+  url: https://ba.gamekee.com/75150.html
+  special:
+  - name: 切里诺（温泉）
+    url: https://ba.gamekee.com/150144.html
+- id: 52
+  name: 和香
+  url: https://ba.gamekee.com/75151.html
+  special:
+  - name: 和香（温泉）
+    url: https://ba.gamekee.com/150174.html
+- id: 53
+  name: 柚子
+  url: https://ba.gamekee.com/77109.html
+  special:
+  - name: 柚子（女仆）
+    url: https://ba.gamekee.com/589650.html
+- id: 54
+  name: 梓
+  url: https://ba.gamekee.com/77111.html
+  special:
+  - name: 梓（泳装）
+    url: https://ba.gamekee.com/81811.html
+- id: 55
+  name: 花子
+  url: https://ba.gamekee.com/77113.html
+  special:
+  - name: 花子（泳装）
+    url: https://ba.gamekee.com/596034.html
+- id: 56
+  name: 小春
+  url: https://ba.gamekee.com/78300.html
+  special:
+  - name: 小春（泳装）
+    url: https://ba.gamekee.com/595927.html
+- id: 57
+  name: 桐乃
+  url: https://ba.gamekee.com/86655.html
+  special: []
+- id: 58
+  name: 夏
+  url: https://ba.gamekee.com/90626.html
+  special: []
+- id: 59
+  name: 玛丽
+  url: https://ba.gamekee.com/90627.html
+  special:
+  - name: 玛丽（体操服）
+    url: https://ba.gamekee.com/170297.html
+- id: 60
+  name: 初音未来（联动）
+  url: https://ba.gamekee.com/90749.html
+  special: []
+- id: 61
+  name: 亚子
+  url: https://ba.gamekee.com/150113.html
+  special: []
+- id: 62
+  name: 巴
+  url: https://ba.gamekee.com/161281.html
+  special: []
+- id: 63
+  name: 吹雪
+  url: https://ba.gamekee.com/150694.html
+  special: []
+- id: 64
+  name: 若藻
+  url: https://ba.gamekee.com/150695.html
+  special:
+  - name: 若藻（泳装）
+    url: https://ba.gamekee.com/159948.html
+  - name: 若藻（华服）
+    url: https://ba.gamekee.com/161200.html
+- id: 65
+  name: 濑名
+  url: https://ba.gamekee.com/150696.html
+  special: []
+- id: 66
+  name: 千寻
+  url: https://ba.gamekee.com/150698.html
+  special: []
+- id: 67
+  name: 三森
+  url: https://ba.gamekee.com/151016.html
+  special:
+  - name: 三森（泳装）
+    url: https://ba.gamekee.com/164191.html
+- id: 68
+  name: 忧
+  url: https://ba.gamekee.com/151345.html
+  special:
+  - name: 忧（泳装）
+    url: https://ba.gamekee.com/595933.html
+- id: 69
+  name: 日向
+  url: https://ba.gamekee.com/151348.html
+  special:
+  - name: 日向（泳装）
+    url: https://ba.gamekee.com/595935.html
+- id: 70
+  name: 玛丽娜
+  url: https://ba.gamekee.com/151713.html
+  special: []
+- id: 71
+  name: 咲
+  url: https://ba.gamekee.com/153367.html
+  special:
+  - name: 咲（泳装）
+    url: https://ba.gamekee.com/593096.html
+- id: 72
+  name: 宫子
+  url: https://ba.gamekee.com/153368.html
+  special:
+  - name: 宫子（泳装）
+    url: https://ba.gamekee.com/593095.html
+- id: 73
+  name: 美游
+  url: https://ba.gamekee.com/153606.html
+  special:
+  - name: 美游（泳装）
+    url: https://ba.gamekee.com/593097.html
+- id: 74
+  name: 枫
+  url: https://ba.gamekee.com/155250.html
+  special: []
+- id: 75
+  name: 伊吕波
+  url: https://ba.gamekee.com/155254.html
+  special: []
+- id: 76
+  name: 满
+  url: https://ba.gamekee.com/155255.html
+  special: []
+- id: 77
+  name: 月咏
+  url: https://ba.gamekee.com/155968.html
+  special: []
+- id: 78
+  name: 美咲
+  url: https://ba.gamekee.com/156959.html
+  special: []
+- id: 79
+  name: 日和
+  url: https://ba.gamekee.com/156962.html
+  special: []
+- id: 80
+  name: 亚津子
+  url: https://ba.gamekee.com/158662.html
+  special: []
+- id: 81
+  name: 纱织
+  url: https://ba.gamekee.com/164453.html
+  special: []
+- id: 82
+  name: 萌绘
+  url: https://ba.gamekee.com/165669.html
+  special:
+  - name: 萌绘（泳装）
+    url: https://ba.gamekee.com/593714.html
+- id: 83
+  name: 和纱
+  url: https://ba.gamekee.com/165671.html
+  special: []
+- id: 84
+  name: 心奈
+  url: https://ba.gamekee.com/167809.html
+  special: []
+- id: 85
+  name: 诺亚
+  url: https://ba.gamekee.com/168193.html
+  special: []
+- id: 86
+  name: 日鞠
+  url: https://ba.gamekee.com/575949.html
+  special: []
+- id: 87
+  name: 时雨
+  url: https://ba.gamekee.com/577249.html
+  special:
+  - name: 时雨（温泉）
+    url: https://ba.gamekee.com/161204.html
+- id: 88
+  name: 美祢
+  url: https://ba.gamekee.com/580732.html
+  special: []
+- id: 89
+  name: 未花
+  url: https://ba.gamekee.com/581679.html
+  special: []
+- id: 90
+  name: 惠
+  url: https://ba.gamekee.com/582116.html
+  special: []
+- id: 91
+  name: 康娜
+  url: https://ba.gamekee.com/582123.html
+  special: []
+- id: 92
+  name: 樱子
+  url: https://ba.gamekee.com/583291.html
+  special:
+  - name: 樱子（礼服）
+    url: https://ba.gamekee.com/581924.html
+- id: 93
+  name: 时
+  url: https://ba.gamekee.com/584417.html
+  special:
+  - name: 时（兔女郎）
+    url: https://ba.gamekee.com/589647.html
+- id: 94
+  name: 渚
+  url: https://ba.gamekee.com/584418.html
+  special: []
+- id: 95
+  name: 小雪
+  url: https://ba.gamekee.com/585462.html
+  special: []
+- id: 96
+  name: 果穗
+  url: https://ba.gamekee.com/588062.html
+  special: []
+- id: 97
+  name: 玲纱
+  url: https://ba.gamekee.com/165751.html
+  special: []
+- id: 98
+  name: 瑠美
+  url: https://ba.gamekee.com/591327.html
+  special: []
+- id: 99
+  name: 南
+  url: https://ba.gamekee.com/591329.html
+  special: []
+- id: 100
+  name: 实梨
+  url: https://ba.gamekee.com/592325.html
+  special: []
+- id: 101
+  name: 梅露
+  url: https://ba.gamekee.com/161230.html
+  special:
+  - name: 梅露（温泉）
+    url: https://ba.gamekee.com/161205.html
+- id: 102
+  name: 红叶
+  url: https://ba.gamekee.com/161228.html
+  special: []
+- id: 103
+  name: 霞
+  url: https://ba.gamekee.com/169361.html
+  special: []
+- id: 104
+  name: 一花
+  url: https://ba.gamekee.com/164610.html
+  special: []
+- id: 105
+  name: 阿罗娜
+  url: https://ba.gamekee.com/161175.html
+  special: []
+- id: 106
+  name: 普拉娜
+  url: https://ba.gamekee.com/584651.html
+  special: []
+- id: 107
+  name: 空
+  url: https://ba.gamekee.com/161177.html
+  special: []
+- id: 108
+  name: 凛
+  url: https://ba.gamekee.com/161188.html
+  special: []
+- id: 109
+  name: 桃香
+  url: https://ba.gamekee.com/161189.html
+  special: []
+- id: 110
+  name: 卡娅
+  url: https://ba.gamekee.com/161207.html
+  special: []
+- id: 111
+  name: 步美
+  url: https://ba.gamekee.com/161206.html
+  special: []
+- id: 112
+  name: 葵
+  url: https://ba.gamekee.com/585010.html
+  special: []
+- id: 113
+  name: 李
+  url: https://ba.gamekee.com/592496.html
+  special: []
+- id: 114
+  name: 灰音
+  url: https://ba.gamekee.com/592498.html
+  special: []
+- id: 115
+  name: 真琴
+  url: https://ba.gamekee.com/161208.html
+  special: []
+- id: 116
+  name: 伊吹
+  url: https://ba.gamekee.com/161209.html
+  special: []
+- id: 117
+  name: 皐月
+  url: https://ba.gamekee.com/581919.html
+  special: []
+- id: 118
+  name: 绘梨香
+  url: https://ba.gamekee.com/161225.html
+  special: []
+- id: 119
+  name: 绮良
+  url: https://ba.gamekee.com/578163.html
+  special: []
+- id: 120
+  name: 莉音
+  url: https://ba.gamekee.com/578171.html
+  special: []
+- id: 121
+  name: 圣娅
+  url: https://ba.gamekee.com/161214.html
+  special: []
+- id: 122
+  name: 妃咲
+  url: https://ba.gamekee.com/581921.html
+  special: []
+- id: 123
+  name: 丽情
+  url: https://ba.gamekee.com/591658.html
+  special: []
+- id: 124
+  name: 葛叶
+  url: https://ba.gamekee.com/164611.html
+  special: []
+- id: 125
+  name: 名草
+  url: https://ba.gamekee.com/584500.html
+  special: []
+- id: 126
+  name: 妮娅
+  url: https://ba.gamekee.com/161222.html
+  special: []
+- id: 127
+  name: 海香
+  url: https://ba.gamekee.com/164188.html
+  special: []
+- id: 128
+  name: 雪乃
+  url: https://ba.gamekee.com/161247.html
+  special: []
+- id: 129
+  name: 妮可
+  url: https://ba.gamekee.com/161248.html
+  special: []
+- id: 130
+  name: 胡桃
+  url: https://ba.gamekee.com/591006.html
+  special: []
+- id: 131
+  name: 音葵
+  url: https://ba.gamekee.com/591005.html
+  special: []
+- id: 132
+  name: 志乃
+  url: https://ba.gamekee.com/161251.html
+  special: []
+- id: 133
+  name: 麦
+  url: https://ba.gamekee.com/161250.html
+  special: []
+- id: 134
+  name: 凯撒PMC 理事
+  url: https://ba.gamekee.com/161253.html
+  special: []
+- id: 135
+  name: 寿司黑
+  url: https://ba.gamekee.com/161254.html
+  special: []
+- id: 136
+  name: 寿司绿
+  url: https://ba.gamekee.com/161256.html
+  special: []
+- id: 137
+  name: 寿司粉
+  url: https://ba.gamekee.com/161257.html
+  special: []
+- id: 138
+  name: 寿司红
+  url: https://ba.gamekee.com/161258.html
+  special: []
+- id: 139
+  name: 寿司黄
+  url: https://ba.gamekee.com/161259.html
+  special: []
+- id: 140
+  name: 黑服
+  url: https://ba.gamekee.com/161261.html
+  special: []
+- id: 141
+  name: 巨匠
+  url: https://ba.gamekee.com/161262.html
+  special: []
+- id: 142
+  name: 戈尔孔达
+  url: https://ba.gamekee.com/161347.html
+  special: []
+- id: 143
+  name: 贝阿朵莉切
+  url: https://ba.gamekee.com/163400.html
+  special: []
+- id: 144
+  name: フランシス
+  url: https://ba.gamekee.com/591661.html
+  special: []
+- id: 145
+  name: 兰舞
+  url: https://ba.gamekee.com/161252.html
+  special: []
+- id: 146
+  name: 佩洛洛
+  url: https://ba.gamekee.com/597251.html
+  special: []
+- id: 147
+  name: 柴田
+  url: https://ba.gamekee.com/168821.html
+  special: []
+- id: 148
+  name: 喵天丸
+  url: https://ba.gamekee.com/168822.html
+  special: []
+- id: 149
+  name: 笛卡尔
+  url: https://ba.gamekee.com/597253.html
+  special: []
+- id: 150
+  name: 雀亭老板娘
+  url: https://ba.gamekee.com/597254.html
+  special: []
+- id: 151
+  name: 花江（应援团）
+  url: https://ba.gamekee.com/578167.html
+  special: []
+- id: 152
+  name: 芹奈（护士）
+  url: https://ba.gamekee.com/578168.html
+  special: []
+- id: 153
+  name: 普雷纳帕特斯
+  url: https://ba.gamekee.com/595232.html
+  special: []
+- id: 154
+  name: 会长
+  url: https://ba.gamekee.com/585544.html
+  special: []
+- id: 155
+  name: 无名的祭司
+  url: https://ba.gamekee.com/586156.html
+  special: []
+- id: 156
+  name: kei
+  url: https://ba.gamekee.com/591659.html
+  special: []
+- id: 157
+  name: 晶
+  url: https://ba.gamekee.com/590369.html
+  special: []
+- id: 158
+  name: 廻
+  url: https://ba.gamekee.com/591335.html
+  special: []
+- id: 159
+  name: 贵音
+  url: https://ba.gamekee.com/598111.html
+  special: []
+- id: 160
+  name: 八云
+  url: https://ba.gamekee.com/598110.html
+  special: []
